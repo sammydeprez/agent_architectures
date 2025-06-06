@@ -1,0 +1,6 @@
+langchain==0.3.25
+langgraph==0.4.7
+langchain-openai==0.3.18
+semantic-kernel==1.32.0
+pydantic-ai==0.2.12
+grandalf==0.8
